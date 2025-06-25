@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm Samarth
 
-<!--
-**samarth3125/samarth3125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science student passionate about full-stack web development and building real-world projects.  
+💻 Currently working on a **Restaurant Management System** using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- 🌐 HTML5, CSS3, JavaScript  
+- 🐍 Python  
+- ⚙️ Git & GitHub  
+- 🖥️ Responsive Web Design
+
+---
+
+### 📌 Ongoing Project
+
+#### 🍽️ Restaurant Management System  
+A web-based app to manage restaurant orders, menus, and billing.  
+Currently in development — uploading soon!
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samarth-kshirsagar-102596316)
+
+---
