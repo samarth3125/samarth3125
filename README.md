@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Samarth
 
 🎓 I’m a Computer Science student passionate about full-stack web development and building real-world projects.  
-💻 Currently working on a **Restaurant Management System** using HTML, CSS, and JavaScript.
 
 ---
 
